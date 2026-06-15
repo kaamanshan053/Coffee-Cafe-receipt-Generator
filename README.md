@@ -18,4 +18,4 @@ A Python-based command-line application designed for a German coffee shop termin
 ​Type casting with int()
 ​Basic arithmetic operations (*)
 ​String formatting (f-strings)
-​Built-in string methods (.upper()
+​Built-in string methods (.upper().
